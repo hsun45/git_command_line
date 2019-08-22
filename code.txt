@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ## My aewsome script
 
 # pseudocode for my excellent workflow
 
 # brilliant software design
-=======
->>>>>>> parent of e9daf29... adding a title
